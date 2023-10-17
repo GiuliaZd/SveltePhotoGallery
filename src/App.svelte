@@ -7,8 +7,10 @@
 
 <TailwindCss />
 <main>
-  <div class="container mx-auto border border-indigo-500 px-4">
-    <h1 class="font-bold text-5xl">Photo Gallery</h1>
+  <div class="container mx-auto border border-text-[#DC143C]-900 px-4">
+    <h1 class="font-bold text-3xl text-[#DC143C] font-cursive">
+      Random Photo Gallery
+    </h1>
 
     <section class="py-8 px-4">
       <div class="flex flex-wrap mx-4">
